@@ -1,0 +1,960 @@
+/* -------------------------------------------------------------- */
+.h4profile {
+    font-weight: 700;
+    font-size: 26px;
+    position: relative;
+    top: 25px;
+    left: 77px;
+}
+
+.dashboard {
+    position: relative;
+    top: 40px;
+    left: 78px;
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+    opacity: 0.9;
+    font-weight: 500;
+}
+
+.dot1 {
+    position: relative;
+    top: 39px;
+    left: 85px;
+    opacity: 0.4;
+}
+
+.user {
+    position: relative;
+    top: 40px;
+    left: 98px;
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+    opacity: 0.9;
+    font-weight: 500;
+}
+
+.dot2 {
+    position: relative;
+    top: 39px;
+    left: 108px;
+    opacity: 0.4;
+}
+
+.ui {
+    position: relative;
+    top: 15px;
+    left: 274px;
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+    opacity: 0.4;
+    font-weight: 500;
+}
+
+/* ---------------------------------------------------------------- */
+
+/* ------------------------------------------------------------------- */
+.postcard {
+    width: 50%;
+    height: 500px;
+    position: relative;
+    top: 60px;
+    left: 75px;
+    box-shadow: 0px 0px 15px 5px rgba(101, 130, 159, 0.12);
+    border: none;
+    border-radius: 10px;
+}
+
+.postinput::placeholder {
+    font-size: large;
+    color: rgb(168, 165, 165);
+}
+
+.postinput[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+    border-radius: 8px;
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.dropdown {
+    width: 100%;
+    height: 45px;
+    outline: none;
+    border: 1px solid #ccc;
+    position: relative;
+    color: gray;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+.searchicon {
+    position: relative;
+    top: 14px;
+    color: black;
+    opacity: 0.7;
+    left: 20px;
+}
+
+.flag {
+    height: 30px;
+    width: 30px;
+    position: relative;
+    left: 1240px;
+    top: 13px;
+}
+
+.notificationicon {
+    position: relative;
+    left: 1250px;
+    top: 15px;
+    color: black;
+    opacity: 0.7;
+}
+
+.groupicon {
+    position: relative;
+    left: 1255px;
+    top: 15px;
+    color: black;
+    opacity: 0.7;
+}
+
+.profile {
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    position: relative;
+    left: 1265px;
+    top: 10px;
+}
+
+
+
+
+.selectbody::placeholder {
+    font-size: large;
+    color: rgb(168, 165, 165);
+    position: relative;
+    top: -130px;
+}
+
+.discriptioninput::placeholder {
+    font-size: large;
+    color: rgb(168, 165, 165);
+}
+
+.tagsinput::placeholder {
+    font-size: large;
+    color: rgb(168, 165, 165);
+}
+
+.metainput::placeholder {
+    font-size: large;
+    color: rgb(168, 165, 165);
+}
+
+.description::placeholder {
+    font-size: large;
+    color: rgb(168, 165, 165);
+}
+
+.ketakeyinput::placeholder {
+    font-size: large;
+    color: rgb(168, 165, 165);
+}
+
+
+.discriptioninput[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+    border-radius: 8px;
+}
+
+.tagsinput[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+    border-radius: 8px;
+}
+
+.metainput[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+    border-radius: 8px;
+}
+
+.description[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+    border-radius: 8px;
+}
+
+.ketakeyinput[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+    border-radius: 8px;
+}
+
+
+.discriptioninput {
+    height: 120px;
+}
+
+.discriptioninput::placeholder {
+    position: relative;
+    bottom: 30px;
+}
+
+.content {
+    font-weight: 700;
+    color: rgb(133, 122, 122);
+    position: relative;
+    top: 70px;
+    font-size: 20px;
+    left: 80px;
+}
+
+.selectheader {
+    background-color: white;
+}
+
+.selectheader select {
+    border: none;
+    outline: none;
+}
+
+.B {
+    position: relative;
+    left: 25px;
+}
+
+.I {
+    position: relative;
+    left: 30px;
+}
+
+.U {
+    position: relative;
+    left: 35px;
+}
+
+.U1 {
+    position: relative;
+    left: 40px;
+}
+
+.font1 {
+    position: relative;
+    left: 65px;
+}
+
+.font2 {
+    position: relative;
+    left: 70px;
+}
+
+.font3 {
+    position: relative;
+    left: 95px;
+}
+
+.font4 {
+    position: relative;
+    left: 100px;
+}
+
+.font5 {
+    position: relative;
+    left: 125px;
+}
+
+.font6 {
+    position: relative;
+    left: 130px;
+}
+
+.font7 {
+    position: relative;
+    left: 135px;
+}
+
+.font8 {
+    position: relative;
+    left: 160px;
+}
+
+.selectbody {
+    height: 210px;
+    border: none;
+    outline: none;
+}
+
+.selectbody::placeholder {
+    position: relative;
+    bottom: 80px;
+}
+
+.cover {
+    font-weight: 500;
+    color: rgb(133, 122, 122);
+    position: relative;
+}
+
+
+.browse {
+    height: 230px;
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid black;
+    background-color: #f4f6f8;
+    position: relative;
+    border-style: dashed;
+}
+
+.browse::-webkit-file-upload-button {
+    display: none;
+}
+
+label {
+    position: relative;
+    bottom: 130px;
+    left: 300px;
+    font-size: 20px;
+}
+
+label p {
+    font-size: 13px;
+    font-weight: 500;
+    opacity: 0.7;
+    position: relative;
+    bottom: 20px;
+
+}
+
+label img {
+    height: 170px;
+    width: 170px;
+    position: relative;
+    bottom: 150px;
+    right: 250px;
+}
+
+.publishcard {
+    width: 35%;
+    float: right;
+    position: relative;
+    bottom: 440px;
+    right: 135px;
+    box-shadow: 0px 0px 15px 5px rgb(101 130 159 / 12%);
+    border: none;
+    height: 500px;
+}
+
+.publish {
+    font-size: 16px;
+    font-weight: 500;
+    opacity: 0.8;
+    position: relative;
+    left: 80px;
+    top: 20px;
+}
+
+.switch {
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+}
+
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 2px;
+    bottom: 0.01px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+input:checked+.slider {
+    background-color: #2196F3;
+}
+
+input:focus+.slider {
+    box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked+.slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+    border-radius: 34px;
+}
+
+.slider.round:before {
+    border-radius: 50%;
+}
+
+.buttonn1 {
+    position: relative;
+    bottom: 17px;
+    height: 25px;
+    width: 50px;
+}
+
+.buttonn2 {
+    position: relative;
+    bottom: 35px;
+    height: 25px;
+    width: 50px;
+}
+
+.enablecomments {
+    font-size: 16px;
+    font-weight: 500;
+    opacity: 0.8;
+    position: relative;
+    left: 80px;
+    top: 5px;
+}
+
+.description {
+    height: 150px;
+}
+
+.description::placeholder {
+    position: relative;
+    bottom: 50px;
+}
+
+.previewbutton {
+    position: relative;
+    right: 800px;
+    width: 190px;
+    height: 45px;
+    border: 1px solid black;
+    bottom: 350px;
+    float: right;
+}
+
+.postbutton {
+    position: relative;
+    right: 400px;
+    width: 190px;
+    height: 45px;
+    border: 1px solid black;
+    bottom: 350px;
+    float: right;
+    background-color: #F45CA5;
+    color: white;
+}
+
+
+
+.editor {
+    position: relative;
+    left: 75px;
+    width: 86.4%;
+    bottom: 385px;
+    box-shadow: 0px 0px 15px 5px rgb(101 130 159 / 12%);
+    border-radius: 20px;
+    border: none;
+    height: 400px;
+}
+
+
+
+
+
+
+@media (max-width:1480px) {
+    .flag {
+        position: relative;
+        left: 1000px;
+    }
+
+    .notificationicon {
+        position: relative;
+        left: 1010px;
+    }
+
+    .groupicon {
+        position: relative;
+        left: 1020px;
+    }
+
+    .profile {
+        position: relative;
+        left: 1030px;
+    }
+}
+
+@media (max-width:1328px) {
+    .flag {
+        position: relative;
+        left: 900px;
+    }
+
+    .notificationicon {
+        position: relative;
+        left: 920px;
+    }
+
+    .groupicon {
+        position: relative;
+        left: 930px;
+    }
+
+    .profile {
+        position: relative;
+        left: 940px;
+    }
+}
+
+@media(max-width:1310px) {
+    .publishcard {
+        right: 75px;
+    }
+
+    label p {
+        position: relative;
+        right: 80px;
+    }
+}
+
+@media (max-width:1200px) {
+    .flag {
+        position: relative;
+        left: 787px;
+    }
+
+    .notificationicon {
+        position: relative;
+        left: 814px;
+    }
+
+    .groupicon {
+        position: relative;
+        left: 833px;
+    }
+
+    .profile {
+        position: relative;
+        left: 856px;
+    }
+}
+
+@media (max-width:1150px) {
+    .font8 {
+        position: relative;
+        left: 133px;
+    }
+
+    label p {
+        position: relative;
+        right: 280px;
+    }
+
+    label b {
+        position: relative;
+        right: 280px;
+    }
+
+    label img {
+        display: none;
+    }
+}
+
+@media (max-width:1115px) {
+    .flag {
+        position: relative;
+        left: 573px;
+    }
+
+    .notificationicon {
+        position: relative;
+        left: 590px;
+    }
+
+    .groupicon {
+        position: relative;
+        left: 611px;
+    }
+
+    .profile {
+        position: relative;
+        left: 626px;
+    }
+}
+
+@media (max-width:1115px) {
+    .flag {
+        position: relative;
+        left: 382px;
+    }
+
+    .notificationicon {
+        position: relative;
+        left: 403px;
+    }
+
+    .groupicon {
+        position: relative;
+        left: 426px;
+    }
+
+    .profile {
+        position: relative;
+        left: 442px;
+    }
+}
+
+@media (max-width:1097px) {
+    .B {
+        position: relative;
+        left: 0px;
+    }
+
+    .I {
+        position: relative;
+        left: 0px;
+    }
+
+    .U {
+        position: relative;
+        left: 0px;
+    }
+
+    .U1 {
+        position: relative;
+        left: 0px;
+    }
+
+    .font1 {
+        position: relative;
+        left: 0px;
+    }
+
+    .font2 {
+        position: relative;
+        left: 0px;
+    }
+
+    .font3 {
+        position: relative;
+        left: 0px;
+    }
+
+    .font4 {
+        position: relative;
+        left: 0px;
+    }
+
+    .font5 {
+        position: relative;
+        left: 0px;
+    }
+
+    .font6 {
+        position: relative;
+        left: 0px;
+    }
+
+    .font7 {
+        position: relative;
+        left: 0px;
+    }
+
+    .font8 {
+        position: relative;
+        left: 0px;
+    }
+}
+
+@media (max-width:1072px) {
+    .publishcard {
+        right: 30px;
+    }
+
+    .buttonn1 {
+        position: relative;
+        left: 215px;
+
+    }
+
+    .buttonn2 {
+        position: relative;
+        left: 215px;
+    }
+}
+
+@media (max-width:1000px) {
+    .previewbutton {
+        position: relative;
+        left: 160px;
+        bottom: 200px;
+    }
+
+    .postbutton {
+        position: relative;
+        left: 350px;
+    }
+}
+
+@media (max-width:900px) {
+    .flag {
+        position: relative;
+        left: 50px;
+    }
+
+    .notificationicon {
+        position: relative;
+        left: 70px;
+    }
+
+    .groupicon {
+        position: relative;
+        left: 90px;
+    }
+
+    .profile {
+        position: relative;
+        left: 110px;
+    }
+}
+
+@media (max-width:825px) {
+    .postcard {
+        width: 100%;
+        left: 0px;
+    }
+
+    .publishcard {
+        position: relative;
+        top: 100px;
+        width: 60%;
+        right: 250px;
+    }
+
+    .col-sm-12 {
+        height: 1700px;
+    }
+
+    .previewbutton {
+        position: relative;
+        left: -50px;
+        top: 650px;
+    }
+
+    .postbutton {
+        position: relative;
+        left: 170px;
+        top: 605px;
+    }
+}
+
+@media (max-width:645px) {
+    .flag {
+        position: relative;
+        left: 50px;
+        top: 13px;
+    }
+
+    .notificationicon {
+        position: relative;
+        left: 60px;
+        top: 15px;
+    }
+
+    .groupicon {
+        position: relative;
+        left: 70px;
+
+    }
+
+    .profile {
+        position: relative;
+        left: 85px;
+        top: 8px;
+    }
+
+    .publishcard {
+        left: -10px;
+    }
+}
+
+@media (max-width:576px) {
+    .flag {
+        position: relative;
+        left: 60px;
+        top: -25px;
+    }
+
+    .notificationicon {
+        position: relative;
+        left: 115px;
+        top: -65px;
+    }
+
+    .groupicon {
+        position: relative;
+        left: 160px;
+        top: -105px;
+
+    }
+
+    .profile {
+        position: relative;
+        left: 200px;
+        top: -150px;
+    }
+
+    .publishcard {
+        left: -220px;
+    }
+
+    .previewbutton {
+        position: relative;
+        left: 310px;
+        top: 100px;
+    }
+
+    .postbutton {
+        position: relative;
+        left: 310px;
+        top: 120px;
+    }
+
+    .col-sm-12 {
+        height: 1800px;
+    }
+}
+
+@media (max-width:500px) {
+    .publishcard {
+        left: -40px;
+        width: 80%;
+    }
+
+    .previewbutton {
+        position: relative;
+        left: -230px;
+        top: 150px;
+    }
+
+    .postbutton {
+        position: relative;
+        left: 160px;
+        top: 150px;
+    }
+}
+
+@media (max-width:390px) {
+
+    .h4profile {
+        left: 0px;
+    }
+
+    .dashboard {
+        left: 0px;
+    }
+
+    .dot1 {
+        left: 00px;
+    }
+
+    .user {
+        left: 10px;
+    }
+
+    .dot2 {
+        left: 20px;
+    }
+
+    .ui {
+        left: 180px;
+    }
+
+}

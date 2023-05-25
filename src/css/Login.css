@@ -1,0 +1,436 @@
+.logindiv4 {
+    height: 745px;
+}
+
+.logincard {
+    height: 715px;
+    border-radius: 20px;
+    position: relative;
+    top: 16px;
+    width: 470px;
+    box-shadow: 0px 10px 10px 10px rgba(112, 144, 176, 0.12);
+    border: none;
+}
+
+.logincard h1 {
+    position: relative;
+    top: 145px;
+    left: 45px;
+    font-family: "public sans", sans-serif;
+    font-size: 32px;
+
+}
+
+.loginlogo {
+    height: 40px;
+    width: 40px;
+    position: relative;
+    top: 45px;
+    left: 45px;
+    font-family: "public sans", sans-serif;
+    line-height: 1.5;
+    border-radius: 25px;
+
+}
+
+.loginbook {
+    position: relative;
+    top: 180px;
+}
+
+.logindiv8 {
+    height: 745px;
+}
+
+.logincreateaccount {
+
+    font-size: 0.875rem;
+    font-family: "Public Sans", sans-serif;
+    font-weight: 400;
+    position: relative;
+    left: 750px;
+    top: 40px;
+    font-size: 13.8px;
+}
+
+.logindiv8 h1 {
+    font-weight: 700;
+    font-size: 1.25rem;
+    font-family: "Public Sans", sans-serif;
+    position: relative;
+    top: 122px;
+    left: 242px;
+    font-size: 24px;
+}
+
+.loginenterdetail {
+    font-size: 1.1rem;
+    font-family: "Public Sans", sans-serif;
+    font-weight: 400;
+    color: rgb(99, 115, 129);
+    position: relative;
+    top: 125px;
+    left: 243px;
+}
+
+.backendresp {
+    color: red;
+    font-weight: 500;
+    position: relative;
+    top: 115px;
+    left: 244px;
+}
+
+.loginemail {
+    height: 55px;
+    width: 480px;
+    border-radius: 10px;
+    position: fixed;
+    top: 260px;
+    left: 764px;
+}
+
+.loginemaillabel {
+    color: red;
+    font-weight: 500;
+    font-size: 13px;
+    position: fixed;
+    top: 313px;
+    left: 768px;
+}
+
+.loginpwd {
+    height: 55px;
+    width: 480px;
+    border-radius: 10px;
+    position: fixed;
+    top: 334px;
+    left: 764px;
+}
+
+.loginpwdlabel {
+    color: red;
+    font-weight: 500;
+    font-size: 13px;
+    position: fixed;
+    top: 386px;
+    left: 768px;
+}
+
+.loginsubmit {
+    height: 50px;
+    width: 480px;
+    border-radius: 10px;
+    position: fixed;
+    top: 435px;
+    left: 765px;
+    background-color: #f45ca5;
+    border: none;
+}
+
+.loginsubmit:hover {
+    background-color: #ff7bbb;
+}
+
+.loginremember {
+    position: fixed;
+    top: 417px;
+    left: 772px;
+}
+
+#rme {
+    font-weight: 400;
+    font-family: "Public Sans", sans-serif;
+    position: fixed;
+    top: 413px;
+    left: 790px;
+}
+
+#loginforgot {
+    font-weight: 600;
+    line-height: 1.57143;
+    font-size: 14px;
+    font-family: "Public Sans", sans-serif;
+    text-decoration: none;
+    position: fixed;
+    top: 413px;
+    left: 1117px;
+}
+input[type=checkbox] {
+    accent-color: #f45ca5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:1480px) {
+    .logindiv8 h1 {
+        left: 260px;
+    }
+
+    .backendresp {
+        left: 260px;
+    }
+
+    .loginenterdetail {
+        left: 260px;
+    }
+
+    .logincreateaccount {
+        left: 700px;
+    }
+}
+
+@media(max-width:1400px) {
+    .logindiv8 h1 {
+        left: 280px;
+    }
+
+    .backendresp {
+        left: 280px;
+    }
+
+    .loginenterdetail {
+        left: 280px;
+    }
+
+    .logincreateaccount {
+        left: 530px;
+    }
+}
+
+@media(max-width:1247px) {
+    .logindiv8 h1 {
+        left: 330px;
+    }
+
+    .backendresp {
+        left: 330px;
+    }
+
+    .loginenterdetail {
+        left: 330px;
+    }
+
+    .logincreateaccount {
+        left: 530px;
+    }
+}
+
+@media(max-width:1246px) {
+    .logindiv8 h1 {
+        left: 155px;
+    }
+
+    .backendresp {
+        left: 155px;
+    }
+
+    .loginenterdetail {
+        left: 155px;
+    }
+
+    .logincreateaccount {
+        left: 400px;
+    }
+
+    .loginemail {
+        left: 580px;
+    }
+
+    .loginemaillabel {
+        left: 580px;
+    }
+
+    .loginpwd {
+        left: 580px;
+    }
+
+    .loginpwdlabel {
+        left: 580px;
+    }
+
+    .loginsubmit {
+        left: 580px;
+    }
+
+    .loginremember {
+        left: 580px;
+    }
+
+    #rme {
+        left: 600px;
+    }
+
+    #loginforgot {
+        left: 935px;
+    }
+}
+
+@media(max-width:1060px) {
+    .logindiv8 h1 {
+        left: 155px;
+    }
+
+    .backendresp {
+        left: 155px;
+    }
+
+    .loginenterdetail {
+        left: 155px;
+    }
+
+    .logincreateaccount {
+        left: 400px;
+    }
+
+    .loginemail {
+        left: 518px;
+    }
+
+    .loginemaillabel {
+        left: 518px;
+    }
+
+    .loginpwd {
+        left: 518px;
+    }
+
+    .loginpwdlabel {
+        left: 518px;
+    }
+
+    .loginsubmit {
+        left: 518px;
+    }
+
+    .loginremember {
+        left: 518px;
+    }
+
+    #rme {
+        left: 538px;
+    }
+
+    #loginforgot {
+        left: 873px;
+    }
+}
+
+@media(max-width:1060px) {
+    .loginemail {
+        left: 500px;
+    }
+
+    .loginemaillabel {
+        left: 500px;
+    }
+
+    .loginpwd {
+        left: 500px;
+    }
+
+    .loginpwdlabel {
+        left: 500px;
+    }
+
+    .loginsubmit {
+        left: 500px;
+    }
+
+    .loginremember {
+        left: 500px;
+    }
+
+    #rme {
+        left: 520px;
+    }
+
+    #loginforgot {
+        left: 855px;
+    }
+}
+
+@media(max-width:986px) {
+    .logindiv8 {
+        top: 725px;
+        left: -481px;
+    }
+
+    .loginemail {
+        position: relative;
+        top: 130px;
+        left: 152px;
+    }
+
+    .loginemaillabel {
+        position: relative;
+        top: 130px;
+        left: 152px;
+    }
+
+    .loginpwd {
+        position: relative;
+        top: 150px;
+        left: 152px;
+    }
+
+    .loginpwdlabel {
+        position: relative;
+        top: 145px;
+        left: 152px;
+    }
+
+    .loginsubmit {
+        position: relative;
+        top: 190px;
+        left: 152px;
+    }
+
+    .loginremember {
+        position: relative;
+        top: 120px;
+        left: 152px;
+    }
+
+    #rme {
+        position: relative;
+        top: 96.5px;
+        left: 170px;
+    }
+
+    #loginforgot {
+        position: relative;
+        top: 60px;
+        left: 500px;
+    }
+}
+
+@media(max-width:960px) {
+    .logindiv8 {
+        top: 725px;
+        left: -400px;
+    }
+}
+
+@media(max-width:720px) {
+    .logindiv8 {
+        top: 725px;
+        left: -300px;
+    }
+}
+
+@media(max-width:576px) {
+    .logindiv8 {
+        top: 0px;
+        left: -150px;
+    }
+}

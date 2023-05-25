@@ -1,0 +1,660 @@
+.fcontainer {
+  /* border: 2px solid gray; */
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  top: 100px;
+}
+
+.fitem {
+  border: 2px solid black;
+  margin: 10px;
+  height: 380px;
+  width: 307px;
+  position: relative;
+  left: 68px;
+  border-radius: 20px;
+  border: none;
+  box-shadow: 0px 0px 20px 0px rgb(217, 212, 212); 
+  transition: 1s;
+}
+.fitem:hover{
+    margin-top: -10px;
+}
+.myblog
+{
+    position: relative;
+    left: 75px;
+    top:100px;
+    width: 21%;
+    height:380px;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 0px 0px 20px 0px rgb(217, 212, 212);  
+    margin-left: 10px;
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.h4profile
+{
+    font-weight: 700;
+    font-size: 26px;
+    position: relative;
+    top: 25px;
+    left: 77px;
+}
+.dashboard
+{
+    position: relative;
+    top: 40px;
+    left: 78px;
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+    opacity: 0.9;
+    font-weight: 500;
+}
+.dot1
+{
+    position: relative;
+    top: 39px;
+    left: 85px;
+    opacity: 0.4;
+}
+.user
+{
+    position: relative;
+    top: 40px;
+    left: 98px;
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+    opacity: 0.9;
+    font-weight: 500;
+}
+.dot2
+{
+    position: relative;
+    top: 39px;
+    left: 108px;
+    opacity: 0.4;
+}
+.ui
+{
+    position: relative;
+    top: 15px;
+    left: 274px;
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+    opacity: 0.4;
+    font-weight: 500;
+}
+.pluspostbutton
+{
+    background-color: #F45CA5;
+    width: 130px;
+    font-weight: 500;
+    position: relative;
+    float: right;
+    right: 120px;
+    bottom: 65px;
+}
+.addicon
+{
+    position: relative;
+    bottom:2px;
+    right: 8px;
+}
+.blogsearchicon
+{
+    position: relative;
+    top:38px;
+    opacity: 0.5;
+    left:85px;
+    z-index: 1;
+}
+.searchpost
+{
+    /* border:none ; */
+    outline: none;
+    height: 40px;
+    width: 200px;
+    position: relative;
+    left: 55px;
+    top: 40px;
+    border-radius:5px;
+    border-color: rgb(176, 176, 176);
+}
+.searchpost::placeholder
+{
+    position: relative;
+    left: 50px;
+    opacity: 0.5;
+    font-weight: 500;
+}
+.blogselect
+{
+    position: relative;
+    float: right;
+    left: 5px;
+    top: 38px;
+    border-radius: 4px;
+    height: 40px;
+    width: 90px;
+    border-color: rgb(176, 176, 176);
+    font-weight: 500;
+    outline: none;
+}
+
+
+
+.myblog:hover
+{
+    position: relative;
+    top:85px;
+    transition: top 0.5s;
+}
+.myblog2
+{
+    position: relative;
+    top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.blog4img1
+{
+    height: 40px;
+    width: 40px;
+    border-radius: 30px;
+    z-index: 1;
+    position: relative;
+    top: 185px;
+    left: 13px;
+    border: 2px solid white;
+}
+.blog4img2
+{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    max-width: 100%;    
+    position: relative;
+    bottom: 40px;
+    /* right: 7px; */
+    object-fit: fill;
+}
+.blog4p1
+{
+    position: relative;
+    bottom: 0px;
+    left: 18px;
+    z-index: 1;
+    color: gray;
+    font-weight: 500;
+}
+.blog4p2
+{
+    position: relative;
+    bottom: 10px;
+    left: 17px;
+    z-index: 1;
+    font-weight: 500;
+    font-size:15px;
+    opacity: 0.9;
+}
+.blog4commenticon
+{
+    position: relative;
+    right: 50px;
+    float: right;
+    color: gray;
+    z-index: 1;
+}
+.blog4commenticonp
+{
+    position: relative;
+    bottom: 4px;
+    left: 260px;
+    color: gray;
+    z-index: 1;
+}
+.blog4eyeicon
+{
+    position: relative;
+    bottom: 40px;
+    right: 125px;
+    float: right;
+    color: gray;
+    z-index: 1;
+}
+.blog4eyeiconp
+{
+    position: relative;
+    bottom: 42px;
+    left: 183px;
+    color: gray;
+    z-index: 1;
+}
+.blog4shareicon
+{
+    position: relative;
+    bottom: 77px;
+    right: 68px;
+    float: right;
+    color: gray;
+    z-index: 1;
+}
+.blog4shareiconp
+{
+    position: relative;
+    bottom: 80px;
+    left: 240px;
+    color: gray;
+    z-index: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .blog1
+{
+    width: 40%;
+    position: relative;
+    left: 60px;
+    height:380px;
+    border-radius: 20px;
+    border: none;
+}
+.blog1img1
+{
+    height: 40px;
+    width: 40px;
+    border-radius: 30px;
+    position: relative;
+    bottom: 750px;
+    left: 20px;
+}
+.blog1img2
+{
+    border-radius: 20px;
+    position: relative;
+    bottom: 15px;
+    right: 15px;
+    width: 607px;
+    height: 378px;
+    object-fit: cover
+}
+.blog1img3
+{
+    border-radius: 20px;
+    height: 378px;
+    width:607px;
+    position: relative;
+    bottom: 393px;
+    right: 15px;
+    opacity: 0.8;
+}
+.blog1p1
+{
+    position: relative;
+    bottom: 590px;
+    left: 40px;
+    z-index: 1;
+    color: gray;
+    font-weight: 500;
+}
+.blog1p2
+{
+    position: relative;
+    bottom: 600px;
+    left: 40px;
+    z-index: 1;
+    color: white;
+    font-weight: 500;
+    font-size:20px;
+}
+.blog1commenticon
+{
+    position: relative;
+    bottom: 547px;
+    right: 190px;
+    float: right;
+    color: gray;
+    z-index: 1;
+}
+.blog1commenticonp
+{
+    position: relative;
+    bottom: 551px;
+    left: 385px;
+    color: gray;
+    z-index: 1;
+}
+.blog1eyeicon
+{
+    position: relative;
+    bottom: 586px;
+    right: 125px;
+    float: right;
+    color: gray;
+    z-index: 1;
+}
+.blog1eyeiconp
+{
+    position: relative;
+    bottom: 589px;
+    left: 450px;
+    color: gray;
+    z-index: 1;
+}
+.blog1shareicon
+{
+    position: relative;
+    bottom: 622px;
+    right: 50px;
+    float: right;
+    color: gray;
+    z-index: 1;
+}
+.blog1shareiconp
+{
+    position: relative;
+    bottom: 625px;
+    left: 521px;
+    color: gray;
+    z-index: 1;
+}
+
+
+
+
+
+
+
+
+
+.blog2
+{
+    width: 23%;
+    position: relative;
+    bottom: 380px;
+    left: 685px;
+    height:380px;
+    border-radius: 20px;
+    border: none;
+}
+.blog2img1
+{
+    height: 40px;
+    width: 40px;
+    border-radius: 30px;
+    z-index: 1;
+    position: relative;
+}
+.blog2img2
+{
+    border-radius: 20px;
+    width: 341px;
+    height: 379px;    
+    position: relative;
+    bottom: 55px;
+    right: 15px;
+}
+.blog2img3
+{
+    border-radius: 20px;
+    width: 341px;
+    height: 379px;    
+    position: relative;
+    bottom: 435px;
+    right: 15px;
+    opacity: 0.8;
+}
+.blog2p1
+{
+    position: relative;
+    bottom: 590px;
+    left: 18px;
+    z-index: 1;
+    color: gray;
+    font-weight: 500;
+}
+.blog2p2
+{
+    position: relative;
+    bottom: 600px;
+    left: 17px;
+    z-index: 1;
+    color: white;
+    font-weight: 500;
+    font-size:16px;
+}
+.blog2commenticon
+{
+    position: relative;
+    bottom: 565px;
+    right: 170px;
+    float: right;
+    color: gray;
+    z-index: 1;
+}
+.blog2commenticonp
+{
+    position: relative;
+    bottom: 569px;
+    left: 145px;
+    color: gray;
+    z-index: 1;
+}
+.blog2eyeicon
+{
+    position: relative;
+    bottom: 604px;
+    right: 113px;
+    float: right;
+    color: gray;
+    z-index: 1;
+}
+.blog2eyeiconp
+{
+    position: relative;
+    bottom: 607px;
+    left: 205px;
+    color: gray;
+    z-index: 1;
+}
+.blog2shareicon
+{
+    position: relative;
+    bottom: 640px;
+    right: 45px;
+    float: right;
+    color: gray;
+    z-index: 1;
+}
+.blog2shareiconp
+{
+    position: relative;
+    bottom: 643px;
+    left: 270px;
+    color: gray;
+    z-index: 1;
+}
+
+
+
+
+.blog3
+{
+    width: 23%;
+    position: relative;
+    bottom: 760px;
+    left: 1040px;
+    height:380px;
+    border-radius: 20px;
+    border: none;
+}
+.blog3img1
+{
+    height: 40px;
+    width: 40px;
+    border-radius: 30px;
+    z-index: 1;
+    position: relative;
+}
+.blog3img2
+{
+    border-radius: 20px;
+    width: 341px;
+    height: 379px;    
+    position: relative;
+    bottom: 55px;
+    right: 15px;
+}
+.blog3img3
+{
+    border-radius: 20px;
+    width: 341px;
+    height: 379px;    
+    position: relative;
+    bottom: 435px;
+    right: 15px;
+    opacity: 0.8;
+}
+.blog3p1
+{
+    position: relative;
+    bottom: 590px;
+    left: 18px;
+    z-index: 1;
+    color: gray;
+    font-weight: 500;
+}
+.blog3p2
+{
+    position: relative;
+    bottom: 600px;
+    left: 17px;
+    z-index: 1;
+    color: white;
+    font-weight: 500;
+    font-size:16px;
+}
+.blog3commenticon
+{
+    position: relative;
+    bottom: 565px;
+    right: 170px;
+    float: right;
+    color: gray;
+    z-index: 1;
+}
+.blog3commenticonp
+{
+    position: relative;
+    bottom: 569px;
+    left: 145px;
+    color: gray;
+    z-index: 1;
+}
+.blog3eyeicon
+{
+    position: relative;
+    bottom: 604px;
+    right: 103px;
+    float: right;
+    color: gray;
+    z-index: 1;
+}
+.blog3eyeiconp
+{
+    position: relative;
+    bottom: 607px;
+    left: 215px;
+    color: gray;
+    z-index: 1;
+}
+.blog3shareicon
+{
+    position: relative;
+    bottom: 640px;
+    right: 45px;
+    float: right;
+    color: gray;
+    z-index: 1;
+}
+.blog3shareiconp
+{
+    position: relative;
+    bottom: 643px;
+    left: 270px;
+    color: gray;
+    z-index: 1;
+}
+
+
+
+
+
+
+
+
+ */
+
+
+/* .blog4
+{
+    width: 21%;
+    position: relative;
+    bottom: 740px;
+    left:75px;
+    height:380px;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 0px 0px 20px 0px rgb(217, 212, 212);  
+} */

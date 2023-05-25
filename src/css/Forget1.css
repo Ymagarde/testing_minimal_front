@@ -1,0 +1,312 @@
+.forgotdiv4
+{
+    height:745px;
+}
+.forgotcard
+{
+    height:715px;
+    border-radius: 20px;
+    position: relative;
+    top: 16px;
+    width: 470px;
+    box-shadow: 0px 10px 10px 10px rgba(112, 144, 176, 0.12);
+    border: none;
+}
+
+.forgotlogo
+{
+    height: 40px;
+    width: 40px;
+    position: relative;
+    top: 45px;
+    left: 45px;
+    font-family: "public sans" , sans-serif;
+    line-height: 1.5;
+    border-radius: 25px;
+    
+}
+.forgotcard h1
+{
+    position: relative;
+    top: 145px;
+    left: 45px;
+    font-family: "public sans" , sans-serif;
+    font-size: 32px;
+    
+}
+.forgotbook
+{
+    position: relative;
+    top: 180px;
+}
+.forgotdiv8
+{
+    height: 745px;
+}
+.forgotcreateaccount
+{
+    
+    font-size: 0.875rem;
+    font-family: "Public Sans", sans-serif;
+    font-weight: 400;
+    position: relative;
+    left: 750px;
+    top: 40px;
+    font-size: 13.8px;
+}
+.forgotdiv8 h1
+{
+    font-weight: 700;
+    font-size: 1.25rem;
+    font-family: "Public Sans", sans-serif;
+    position: relative;
+    top: 122px;
+    left: 242px;
+    font-size: 24px;
+}
+.forgotenterdetail
+{
+    font-size: 1.1rem;
+    font-family: "Public Sans", sans-serif;
+    font-weight: 400;
+    color: rgb(99, 115, 129);
+    position: relative;
+    top: 125px;
+    left: 243px;
+}
+.forgeterror
+{
+    color: red;
+    font-weight: 500;
+    position: relative;
+    top: 110px;
+    left: 243px;
+}
+.forgetemail
+{
+    height: 55px;
+    width: 480px;
+    border-radius: 10px;
+    position: fixed;
+    top: 260px;
+    left: 761px;
+}
+.forgotemaillabel
+{
+    color: red;
+    font-weight: 500;
+    font-size: 13px;
+    position: fixed;
+    top: 313px;
+    left: 768px;
+}
+.forgetsubmit
+{
+    height: 50px;
+    width: 480px;
+    border-radius: 10px;
+    position: fixed;
+    top: 340px;
+    left: 763px;
+    background-color: #f45ca5;
+    border: none;
+}
+.forgetsubmit:hover
+{
+    background-color: #ff7bbb;
+}
+@media(max-width:1480px)
+{
+    .forgotdiv8 h1
+    {
+        left: 260px;
+    }
+    .forgeterror
+    {
+        left: 260px;
+    }
+    .forgotenterdetail
+    {
+        left: 260px;
+    }
+    .forgotcreateaccount
+    {
+        left: 700px;
+    }
+}
+@media(max-width:1400px)
+{
+    .forgotdiv8 h1
+    {
+        left: 280px;
+    }
+    .forgeterror
+    {
+        left: 280px;
+    }
+    .forgotenterdetail
+    {
+        left: 280px;
+    }
+    .forgotcreateaccount
+    {
+        left: 530px;
+    }
+}
+@media(max-width:1247px)
+{
+    .forgotdiv8 h1
+    {
+        left: 330px;
+    }
+    .forgeterror
+    {
+        left: 330px;
+    }
+    .forgotenterdetail
+    {
+        left: 330px;
+    }
+    .forgotcreateaccount
+    {
+        left: 530px;
+    }
+}
+@media(max-width:1246px)
+{
+    .forgotdiv8 h1
+    {
+        left: 155px;
+    }
+    .forgeterror
+    {
+        left: 155px;
+    }
+    .forgotenterdetail
+    {
+        left: 155px;
+    }
+    .forgotcreateaccount
+    {
+        left: 400px;
+    }
+    .forgetemail
+    {
+        left: 580px;
+    }
+    .forgotemaillabel
+    {
+        left: 580px;
+    }
+    .forgetsubmit
+    {
+        left: 580px;
+    }
+}
+
+@media(max-width:1060px)
+{
+    .forgotdiv8 h1
+    {
+        left: 155px;
+    }
+    .forgeterror
+    {
+        left: 155px;
+    }
+    .forgotenterdetail
+    {
+        left: 155px;
+    }
+    .forgotcreateaccount
+    {
+        left: 400px;
+    } 
+    
+    .forgetemail
+    {
+        left: 518px;
+    }
+    .forgotemaillabel
+    {
+        left: 518px;
+    }
+    .forgetsubmit
+    {
+        left: 518px;
+    }
+}
+@media(max-width:1060px)
+{
+    .forgetemail
+    {
+        left: 500px;
+    }
+    .forgotemaillabel
+    {
+        left: 500px;
+    }
+    .forgetsubmit
+    {
+        left: 500px;
+    }
+}
+@media(max-width:986px)
+{
+    .forgotdiv8
+    {
+        top: 725px;
+        left: -481px;   
+    }
+    .forgetemail
+    {
+        position: relative;
+        top: 130px;
+        left: 152px;
+    }
+    .forgotemaillabel
+    {
+        position: relative;
+        top: 130px;
+        left: 152px;
+    }
+    .forgetsubmit
+    {
+        position: relative;
+        top: 180px;
+        left: 28px;
+    }
+}
+@media(max-width:960px)
+{
+    .forgotdiv8
+    {
+        top: 725px;
+        left: -400px;   
+    }
+}
+@media(max-width:941px)
+{
+    .forgetsubmit
+    {
+        position: relative;
+        top: 180px;
+        left: 155px;
+    }
+}
+@media(max-width:720px)
+{
+    .forgotdiv8
+    {
+        top: 725px;
+        left: -300px;   
+    }
+}
+@media(max-width:576px)
+{
+    .forgotdiv8
+    {
+        top: 0px;
+        left: -150px;   
+    }
+}

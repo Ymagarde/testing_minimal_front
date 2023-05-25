@@ -1,0 +1,92 @@
+.about1
+{
+    height: 55px;
+    width: 480px;
+    border-radius: 10px;
+    position: relative;
+    top: 130px;
+    left: 244px;
+}
+.about2
+{
+    height: 55px;
+    width: 480px;
+    border-radius: 10px;
+    position: relative;
+    top: 145px;
+    left: 244px;
+}
+.about3
+{
+    height: 55px;
+    width: 480px;
+    border-radius: 10px;
+    position: relative;
+    top: 160px;
+    left: 244px;
+}
+.about4
+{
+    height: 55px;
+    width: 480px;
+    border-radius: 10px;
+    position: relative;
+    top: 175px;
+    left: 244px;
+}
+.aboutsubmit
+{
+    height: 50px;
+    width: 480px;
+    border-radius: 10px;
+    position: relative;
+    top: 205px;
+    left: 244px;
+    background-color:#f45ca5;
+}
+.browseprofileimage
+{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    border: 1px solid black;
+    background-color: #f4f6f8;
+    position: relative;
+    left: 400px;
+    top: 50px;
+    border:none ;
+    border-radius: 50px;
+} 
+.browseprofileimage::-webkit-file-upload-button
+{
+    /* display: none; */
+    position: relative;
+    bottom: 50px;
+}
+
+.profilephoto
+{
+    position: relative;
+    left: 395px;
+    top: 55px;
+}
+.div8 img {
+    width: 10%;
+    height: 11.5%;
+    object-fit: cover;
+    position: relative;
+    left: 300px;
+    top: 85px;}
+    .socialdetailh1
+{
+    position: relative;
+    top: 130px;
+    left: 250px;
+}
+@media (max-width:576px) {
+    .div8
+    {
+        position: relative;
+        right: 240px;
+    }
+}

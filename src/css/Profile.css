@@ -1,0 +1,1116 @@
+.h4profile {
+    font-weight: 700;
+    font-size: 26px;
+    position: relative;
+    top: 25px;
+    left: 77px;
+}
+
+.dashboard {
+    position: relative;
+    top: 40px;
+    left: 24px;
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+    opacity: 0.9;
+    font-weight: 500;
+}
+
+.dot1 {
+    position: relative;
+    top: 39px;
+    left: 42px;
+    opacity: 0.4;
+}
+
+.user {
+    position: relative;
+    top: 40px;
+    left: 60px;
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+    opacity: 0.9;
+    font-weight: 500;
+}
+
+.dot2 {
+    position: relative;
+    top: 39px;
+    left: 80px;
+    opacity: 0.4;
+}
+
+.ui {
+    position: relative;
+    top: 15px;
+    left: 260px;
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+    opacity: 0.4;
+    font-weight: 500;
+}
+
+.profilecard1 {
+    position: relative;
+    top: 60px;
+    border-radius: 20px;
+    height: 300px;
+    box-shadow: rgb(145 158 171 / 20%) 0px 0px 2px 0px, rgb(145 158 171 / 12%) 0px 12px 24px -4px;
+}
+
+.river {
+    height: 250px;
+    width: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+
+
+.usernamee {
+    font-weight: 700;
+    line-height: 1.5;
+    font-size: 21px;
+    font-family: "Public Sans", sans-serif;
+    position: relative;
+    left: 230px;
+    bottom: 65px;
+    color: white;
+}
+
+.work {
+    font-weight: 700;
+    line-height: 1.5;
+    font-size: 16px;
+    font-family: "Public Sans", sans-serif;
+    position: relative;
+    left: 230px;
+    bottom: 80px;
+    opacity: 0.9;
+    color: white;
+}
+
+.profile2 {
+    border-radius: 200px;
+    border: 2px solid white;
+    height: 120px;
+    width: 120px;
+    position: relative;
+    bottom: 180px;
+    left: 80px;
+    z-index: 1;
+}
+
+.piceditbutton {
+    position: relative;
+    bottom: 125px;
+    left: 65px;
+    background-color: #f45ca5;
+    font-size: 15px;
+    color: white;
+    border: none;
+    z-index: 1;
+}
+
+.test {
+    position: relative;
+    top: 110px;
+}
+
+.card1 {
+    position: relative;
+    height: 310px;
+    width: 75%;
+    border-radius: 20px;
+    left: 100px;
+    box-shadow: rgb(145 158 171 / 20%) 0px 0px 2px 0px, rgb(145 158 171 / 12%) 0px 12px 24px -4px;
+
+}
+
+.p1 {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.p3 {
+    position: relative;
+    bottom: 22px;
+    left: 35px;
+}
+
+.p4 {
+    position: relative;
+    bottom: 42px;
+    left: 35px;
+}
+
+.p4icon {
+    position: relative;
+    bottom: 20px;
+}
+
+.p5 {
+    position: relative;
+    bottom: 61px;
+    left: 35px;
+}
+
+.p5icon {
+    position: relative;
+    bottom: 39px;
+}
+
+.p6 {
+    position: relative;
+    bottom: 77px;
+    left: 35px;
+}
+
+.p6icon {
+    position: relative;
+    bottom: 55px;
+}
+
+.abouteditbutton {
+    position: relative;
+    bottom: 75px;
+    float: right;
+    background-color: #f45ca5;
+    font-size: 15px;
+    color: white;
+    border: none;
+}
+
+.abouteditbutton:hover {
+    background-color: #e8a6c6;
+    color: white;
+}
+
+
+
+
+
+.card3 {
+    position: relative;
+    top: 20px;
+    height: 285px;
+    width: 75%;
+    border-radius: 20px;
+    left: 100px;
+    box-shadow: rgb(145 158 171 / 20%) 0px 0px 2px 0px, rgb(145 158 171 / 12%) 0px 12px 24px -4px;
+}
+
+.p13 {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.linkedin {
+    height: 15px;
+    width: 15px;
+}
+
+.p23 {
+    position: relative;
+    bottom: 20px;
+    left: 30px;
+    text-decoration: none;
+}
+
+.p23 a {
+    text-decoration: none;
+}
+
+.twitter {
+    height: 20px;
+    width: 20px;
+    position: relative;
+    bottom: 20px;
+    right: 2px;
+}
+
+.p33 {
+    position: relative;
+    bottom: 42px;
+    left: 30px;
+    text-decoration: none;
+
+}
+
+.p33 a {
+    text-decoration: none;
+}
+
+.instagram {
+    height: 20px;
+    width: 20px;
+    right: 2px;
+    position: relative;
+    bottom: 44px;
+}
+
+.p43 {
+    position: relative;
+    bottom: 64px;
+    left: 30px;
+    text-decoration: none;
+
+}
+
+.p43 a {
+    text-decoration: none;
+}
+
+.facebook {
+    height: 20px;
+    width: 20px;
+    position: relative;
+    bottom: 68px;
+    right: 2px;
+}
+
+.p53 {
+    position: relative;
+    bottom: 90px;
+    left: 30px;
+    text-decoration: none;
+}
+
+.p53 a {
+    text-decoration: none;
+}
+
+
+.card2 {
+    position: relative;
+    right: 100px;
+    height: 250px;
+    width: 88%;
+    border-radius: 20px;
+    float: right;
+    box-shadow: rgb(145 158 171 / 20%) 0px 0px 2px 0px, rgb(145 158 171 / 12%) 0px 12px 24px -4px;
+}
+
+.card2 input {
+    height: 150px;
+    width: 100%;
+    border-radius: 20px;
+    outline: none;
+    border: 1px solid #ccc;
+}
+
+.addphoto {
+    position: relative;
+    left: 10px;
+    top: 20px;
+
+}
+
+.attatch {
+    position: relative;
+    left: 25px;
+    top: 20px;
+    opacity: 0.6;
+}
+
+.post {
+    position: relative;
+    float: right;
+    top: 18px;
+    box-shadow: 0px 0px 15px 0px #ccc;
+    width: 70px;
+}
+
+.card4 {
+    position: relative;
+    right: 100px;
+    width: 870px;
+    border-radius: 20px;
+    float: right;
+    box-shadow: rgb(145 158 171 / 20%) 0px 0px 2px 0px, rgb(145 158 171 / 12%) 0px 12px 24px -4px;
+    margin-top: 20px;
+}
+
+.card4profile {
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    position: relative;
+    top: 10px;
+    left: 8px;
+}
+
+.card4ui {
+    font-weight: 500;
+    position: relative;
+    left: 70px;
+    bottom: 30px;
+}
+
+.card4date {
+    font-weight: 400;
+    opacity: 0.7;
+    position: relative;
+    bottom: 45px;
+    left: 70px
+}
+
+.fa-ellipsis-v {
+    position: relative;
+    left: 810px;
+    bottom: 100px;
+    opacity: 0.7;
+}
+
+.card4p1 {
+    font-weight: 550;
+    position: relative;
+    bottom: 60px;
+    opacity: 0.9;
+    object-fit: cover;
+    height: 100px;
+    width: 100%;
+}
+
+.feed {
+
+    /* object-fit: cover; */
+    height: 400px;
+    width: 700px;
+    position: relative;
+    left: 65px;
+    bottom: 110px;
+    border-radius: 20px;
+}
+
+.proheart {
+    font-size: 24px;
+    color: red;
+    position: relative;
+    top: 128px;
+    right: 640px;
+    ;
+}
+
+
+
+.card4img1 {
+    height: 30px;
+    width: 30px;
+    border: 1px solid white;
+    border-radius: 60px;
+    position: relative;
+    top: 126px;
+    right: 610px;
+    z-index: 2;
+}
+
+.card4img2 {
+    height: 30px;
+    width: 30px;
+    border: 1px solid white;
+    border-radius: 60px;
+    position: relative;
+    top: 126px;
+    right: 620px;
+    z-index: 1;
+}
+
+.card4img3 {
+    height: 30px;
+    width: 30px;
+    border: 1px solid white;
+    border-radius: 60px;
+    position: relative;
+    top: 126px;
+    right: 630px;
+}
+
+.a36 {
+    font-weight: 500;
+    position: relative;
+    bottom: 90px;
+    left: 93px;
+    font-size: 18px;
+    opacity: 0.8;
+}
+
+.profilehr {
+    position: relative;
+    margin: 1rem 0;
+    color: inherit;
+    border: 0;
+    border-top: 1px solid;
+    opacity: .25;
+    bottom: 70px;
+}
+
+
+.commentscroll {
+    max-height: 350px;
+    width: 100%;
+    position: relative;
+    bottom: 38px;
+    overflow-y: scroll;
+}
+
+
+.comment1 {
+    height: 60px;
+    width: 77%;
+    background-color: #ccc;
+    position: relative;
+    left: 80px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.resumep1 {
+    font-weight: 500;
+    position: relative;
+    top: 5px;
+    left: 10px;
+}
+
+.resumep2 {
+    position: relative;
+    bottom: 10px;
+    left: 10px;
+    opacity: 0.8;
+}
+
+.resumep3 {
+    position: relative;
+    bottom: 70px;
+    right: 10px;
+    float: right;
+    opacity: 0.8;
+}
+.doreply {
+    position: relative;
+    bottom: 44px;
+    left: 190px;
+    float: right;
+    border: none;
+    background-color: transparent;
+}
+.procomm{
+    background-color: cadetblue;
+    width: 85%;
+    margin-left: 95px;
+    border-radius: 10px;
+}
+.resumep4{
+    height: 10px;
+    width: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.replys {
+    position: absolute;
+    bottom: 4px;
+    left: 285px;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    width: 248px;
+}
+
+.replysubmit {
+    position: absolute;
+    background-color: #f45ca5;
+    bottom: 4px;
+    height: 24px;
+    left: 540px;
+    width: 30px;
+    border: none;
+    outline: none;
+}
+
+.replysubmit:hover {
+    background-color: #e8a6c6;
+}
+
+.replysendico {
+    position: relative;
+    bottom: 6px;
+    right: 6px;
+}
+
+.searchicon {
+    position: relative;
+    top: 14px;
+    color: black;
+    opacity: 0.7;
+    left: 20px;
+}
+
+.flag {
+    height: 30px;
+    width: 30px;
+    position: relative;
+    left: 1240px;
+    top: 13px;
+}
+
+.notificationicon {
+    position: relative;
+    left: 1250px;
+    top: 15px;
+    color: black;
+    opacity: 0.7;
+}
+
+.groupicon {
+    position: relative;
+    left: 1255px;
+    top: 15px;
+    color: black;
+    opacity: 0.7;
+}
+
+.profile {
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    position: relative;
+    left: 1265px;
+    top: 10px;
+}
+
+
+
+
+.profilecard2 {
+    position: relative;
+    bottom: 205px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    height: 50px;
+}
+
+
+
+
+
+
+.disedit1 {
+    position: relative;
+    width: 65%;
+    margin-left: 130px;
+    bottom: 30px;
+    border-radius: 8px;
+}
+
+.diseditp1 {
+    position: relative;
+    left: 25px;
+    top: 10px;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.disedit2 {
+    position: relative;
+    width: 65%;
+    margin-left: 130px;
+    bottom: 50px;
+    border-radius: 8px;
+}
+
+.diseditp2 {
+    position: relative;
+    left: 25px;
+    bottom: 10px;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.disedit3 {
+    position: relative;
+    width: 65%;
+    margin-left: 130px;
+    bottom: 70px;
+    border-radius: 8px;
+}
+
+.diseditp3 {
+    position: relative;
+    left: 25px;
+    bottom: 30px;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.disedit4 {
+    position: relative;
+    width: 65%;
+    margin-left: 130px;
+    bottom: 90px;
+    border-radius: 8px;
+}
+
+.diseditp4 {
+    position: relative;
+    left: 25px;
+    bottom: 50px;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.disedit5 {
+    position: relative;
+    width: 65%;
+    margin-left: 130px;
+    bottom: 110px;
+    border-radius: 8px;
+}
+
+.diseditp5 {
+    position: relative;
+    left: 25px;
+    bottom: 70px;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+
+
+.aboutediticon {
+    margin-top: -5px;
+    color: white;
+}
+
+.modal-dialog {
+    position: relative;
+    top: 200px;
+}
+
+.scludtbtn {
+    border: none;
+    background-color: #f45ca5;
+    border-radius: 8px;
+    color: white;
+    height: 34px;
+    width: 75px;
+    position: relative;
+    bottom: 85px;
+    left: 255px;
+}
+
+.scludtbtn2 {
+    border: none;
+    background-color: #f45ca5;
+    border-radius: 8px;
+    color: white;
+    height: 34px;
+    width: 75px;
+    position: relative;
+    bottom: 85px;
+    left: 285px;
+}
+
+.scludtbtna {
+    border: none;
+    background-color: #f45ca5;
+    border-radius: 8px;
+    color: white;
+    height: 34px;
+    width: 75px;
+    position: relative;
+    bottom: 65px;
+    left: 255px;
+}
+
+.scludtbtna2 {
+    border: none;
+    background-color: #f45ca5;
+    border-radius: 8px;
+    color: white;
+    height: 34px;
+    width: 75px;
+    position: relative;
+    bottom: 65px;
+    left: 285px;
+}
+
+.mb1 {
+    height: 330px;
+}
+
+.mb2 {
+    height: 280px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.sms {
+    position: relative;
+    bottom: 153px;
+    left: 735px;
+    opacity: 0.7;
+}
+
+.share {
+    position: relative;
+    bottom: 120px;
+    left: 720px;
+    opacity: 0.7;
+}
+
+.card4img4 {
+    height: 45px;
+    width: 45px;
+    border: 1px solid white;
+    border-radius: 60px;
+    position: relative;
+    right: 10px;
+    bottom: 55px;
+}
+
+
+
+.card4img5 {
+    height: 45px;
+    width: 45px;
+    border: 1px solid white;
+    border-radius: 60px;
+    position: relative;
+    left: 11px;
+    bottom: 55px;
+}
+
+.comment51 {
+    height: 100px;
+    width: 700px;
+    background-color: #ccc;
+    position: relative;
+    bottom: 105px;
+    left: 80px;
+    border-radius: 10px;
+}
+
+.resumep51 {
+    font-weight: 500;
+    position: relative;
+    top: 5px;
+    left: 10px;
+}
+
+.resumep52 {
+    position: relative;
+    bottom: 10px;
+    left: 10px;
+    opacity: 0.8;
+}
+
+.resumep53 {
+    position: relative;
+    bottom: 93px;
+    left: 560px;
+    opacity: 0.8;
+}
+
+.reply {
+    height: 45px;
+    width: 45px;
+    border-radius: 30px;
+    position: relative;
+    top: 5px;
+    left: 12px;
+}
+
+.commentinput {
+    position: relative;
+    bottom: 20px;
+}
+
+
+.card4input {
+    height: 40px;
+    width: 645px;
+    border-radius: 10px;
+    position: relative;
+    top: 5px;
+    left: 35px;
+    outline: none;
+    border: 1px solid #ccc;
+}
+
+.z1 {
+    position: relative;
+    right: 35px;
+    bottom: 79px;
+    opacity: 0.8;
+}
+
+.z3 {
+    position: relative;
+    opacity: 0.8;
+    border: none;
+    background-color: white;
+    float: right;
+    right: 70px;
+    top: 10px;
+}
+
+.showmore {
+    border: none;
+    background: transparent;
+    color: deeppink;
+    position: relative;
+    /* bottom: 60px; */
+    font-size: 19px;
+    font-weight: 600;
+    right: 365px;
+}
+
+
+
+
+
+.seecomment {
+    margin-left: 20px;
+    position: relative;
+    bottom: 80px;
+    border: none;
+    background-color: transparent;
+}
+
+#myDIV {
+    width: 100%;
+    padding: 50px 0;
+    text-align: center;
+    background-color: lightblue;
+    margin-top: 20px;
+}
+
+.replydiv {
+    position: relative;
+    top: -78px;
+    left: 153px;
+    width: 74%;
+    height: 80px;
+    background: #ccc;
+    z-index: 1;
+    margin-top: 19px;
+}
+
+.replydiv:before {
+    content: "";
+    position: absolute;
+    top: -40px;
+    left: 0;
+    height: 40px;
+    width: 40px;
+    border-bottom-left-radius: 50%;
+}
+
+.replydiv:before {
+    box-shadow: 0 20px 0 0 #ccc;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:1190px) {
+    .card1 {
+        left: 20px;
+        width: 85%;
+    }
+
+    .card3 {
+        left: 20px;
+        width: 85%;
+    }
+}
+
+@media (max-width:1055px) {
+    .card1 {
+        overflow: scroll;
+    }
+
+    .card3 {
+        overflow: scroll;
+    }
+}
+
+@media (max-width:800px) {
+    .card2 {
+        right: 0px;
+    }
+
+    .card1 {
+        left: 20px;
+        width: 125%;
+    }
+
+    .card3 {
+        left: 20px;
+        width: 125%;
+    }
+}
+
+@media (max-width:576px) {
+    .card1 {
+        width: 100%;
+    }
+
+    .card2 {
+        width: 100%;
+        left: 20px;
+        top: 40px
+    }
+
+    .card3 {
+        width: 100%;
+    }
+}
+
+@media (max-width:390px) {
+    .profile2 {
+        left: 2px;
+    }
+
+    .piceditbutton {
+        left: 0px;
+    }
+
+    .usernamee {
+        left: 125px;
+    }
+
+    .work {
+        left: 125px;
+    }
+
+    .h4profile {
+        left: 0px;
+    }
+
+    .dashboard {
+        left: 0px;
+    }
+
+    .dot1 {
+        left: 0px;
+    }
+
+    .user {
+        left: 0px;
+    }
+
+    .dot2 {
+        left: 0px;
+    }
+
+    .ui {
+        left: 0px;
+    }
+
+}

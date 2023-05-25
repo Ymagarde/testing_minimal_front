@@ -1,0 +1,457 @@
+.div4 {
+    height: 745px;
+}
+
+.signincard {
+    height: 715px;
+    border-radius: 20px;
+    position: relative;
+    top: 16px;
+    width: 470px;
+    box-shadow: 0px 10px 10px 10px rgba(112, 144, 176, 0.12);
+    border: none;
+}
+
+.logo {
+    height: 40px;
+    width: 40px;
+    position: relative;
+    top: 45px;
+    left: 45px;
+    font-family: "public sans", sans-serif;
+    line-height: 1.5;
+    border-radius: 25px;
+
+}
+
+.signincard h1 {
+    position: relative;
+    top: 145px;
+    left: 45px;
+    font-family: "public sans", sans-serif;
+    font-size: 32px;
+
+}
+
+.book {
+    position: relative;
+    top: 180px;
+}
+
+.registerdiv8 {
+    height: 745px;
+}
+
+.registercreateaccount {
+
+    font-size: 0.875rem;
+    font-family: "Public Sans", sans-serif;
+    font-weight: 400;
+    position: relative;
+    left: 750px;
+    top: 40px;
+    font-size: 13.8px;
+}
+
+#registerdiv8h1 {
+    font-weight: 700;
+    font-size: 1.25rem;
+    font-family: "Public Sans", sans-serif;
+    position: relative;
+    top: 122px;
+    left: 242px;
+    font-size: 24px;
+}
+
+#enterdetail {
+    font-size: 1.1rem;
+    font-family: "Public Sans", sans-serif;
+    font-weight: 400;
+    color: rgb(99, 115, 129);
+    position: relative;
+    top: 125px;
+    left: 243px;
+}
+
+.backend {
+    color: red;
+    font-weight: 500;
+    position: relative;
+    top: 106px;
+    left: 275px;
+}
+
+.registerfname {
+    height: 55px;
+    width: 235px;
+    border-radius: 10px;
+    position: fixed;
+    top: 257px;
+    left: 768px;
+}
+
+.fnamelabel {
+    color: red;
+    font-weight: 500;
+    font-size: 13px;
+    position: fixed;
+    top: 308px;
+    left: 774px;
+}
+
+.registerlname {
+    height: 55px;
+    width: 235px;
+    border-radius: 10px;
+    position: fixed;
+    top: 257px;
+    left: 1014px;
+}
+
+.lnamelabel {
+    color: red;
+    font-weight: 500;
+    font-size: 13px;
+    position: fixed;
+    top: 308px;
+    left: 1022px;
+}
+
+.email {
+    height: 55px;
+    width: 480px;
+    border-radius: 10px;
+    position: fixed;
+    top: 337px;
+    left: 768px;
+}
+
+.emaillabel {
+    color: red;
+    font-weight: 500;
+    font-size: 13px;
+    position: fixed;
+    top: 388px;
+    left: 774px;
+}
+
+.username {
+    height: 55px;
+    width: 480px;
+    border-radius: 10px;
+    position: fixed;
+    top: 417px;
+    left: 768px;
+}
+
+.usernamelabel {
+    color: red;
+    font-weight: 500;
+    font-size: 13px;
+    position: fixed;
+    top: 468px;
+    left: 774px;
+}
+
+.pwd {
+    height: 55px;
+    width: 480px;
+    border-radius: 10px;
+    position: fixed;
+    top: 492px;
+    left: 768px;
+}
+
+.passwordlabel {
+    color: red;
+    font-weight: 500;
+    font-size: 13px;
+    position: fixed;
+    top: 543px;
+    left: 774px;
+}
+
+.submit {
+    height: 50px;
+    width: 479px;
+    border-radius: 10px;
+    position: fixed;
+    top: 566px;
+    left: 767px;
+    background-color: #f45ca5;
+    border: none;
+}
+
+.submit:hover {
+    background-color: #ff7bbb;
+}
+
+.lastpara {
+    line-height: 1.57143;
+    font-size: 0.875rem;
+    font-family: "Public Sans", sans-serif;
+    font-weight: 400;
+    text-align: center;
+    color: rgb(99, 115, 129);
+    position: fixed;
+    top: 620px;
+    left: 809px;
+}
+
+
+
+
+
+@media (max-width:1447px) {
+    .registercreateaccount {
+        position: relative;
+        left: 541px;
+    }
+
+    #registerdiv8h1 {
+        left: 272px;
+    }
+
+    #enterdetail {
+        left: 272px;
+    }
+
+}
+
+@media (max-width:1251px) {
+    .registerfname {
+        left: 702px;
+    }
+
+    .registerlname {
+        left: 947px;
+    }
+
+    .email {
+        left: 702px;
+    }
+
+    .username {
+        left: 702px;
+    }
+
+    .pwd {
+        left: 702px;
+    }
+
+    .submit {
+        left: 702px;
+    }
+
+    .lastpara {
+        left: 702px;
+    }
+}
+
+@media (max-width:1184px) {
+    .registercreateaccount {
+        position: relative;
+        left: 500px;
+    }
+
+    #registerdiv8h1 {
+        left: 200px;
+    }
+
+    #enterdetail {
+        left: 200px;
+    }
+
+    .registerfname {
+        left: 600px;
+    }
+
+    .registerlname {
+        left: 843px;
+    }
+
+    .email {
+        left: 600px;
+    }
+
+    .username {
+        left: 600px;
+    }
+
+    .pwd {
+        left: 600px;
+    }
+
+    .submit {
+        left: 600px;
+    }
+
+    .lastpara {
+        left: 600px;
+    }
+}
+
+@media (max-width:1079px) {
+    .registercreateaccount {
+        position: relative;
+        left: 400px;
+    }
+
+    #registerdiv8h1 {
+        left: 130px;
+    }
+
+    #enterdetail {
+        left: 130px;
+    }
+
+    .registerfname {
+        left: 500px;
+    }
+
+    .registerlname {
+        left: 743px;
+    }
+
+    .email {
+        left: 500px;
+    }
+
+    .username {
+        left: 500px;
+    }
+
+    .pwd {
+        left: 500px;
+    }
+
+    .submit {
+        left: 500px;
+    }
+
+    .lastpara {
+        left: 500px;
+    }
+}
+
+@media (max-width:1019px) {
+    #registerdiv8h1 {
+        left: 160px;
+    }
+
+    #enterdetail {
+        left: 160px;
+    }
+}
+
+@media (max-width:986px) {
+    .registerdiv8 {
+        top: 725px;
+        left: -470px;
+    }
+
+    .backend {
+        left: 158px;
+    }
+
+    .registerfname {
+        position: absolute;
+        left: 162px;
+    }
+
+    .fnamelabel {
+        position: absolute;
+        left: 165px;
+    }
+
+    .registerlname {
+        position: absolute;
+        left: 400px;
+    }
+
+    .lnamelabel {
+        position: absolute;
+        left: 405px;
+    }
+
+    .email {
+        position: absolute;
+        left: 160px;
+    }
+
+    .emaillabel {
+        position: absolute;
+        left: 165px;
+    }
+
+    .username {
+        position: absolute;
+        left: 160px;
+    }
+
+    .usernamelabel {
+        position: absolute;
+        left: 165px;
+    }
+
+    .pwd {
+        position: absolute;
+        left: 160px;
+    }
+
+    .passwordlabel {
+        position: absolute;
+        left: 165px;
+    }
+
+    .submit {
+        position: absolute;
+        left: 160px;
+
+    }
+
+    .lastpara {
+        position: absolute;
+        left: 160px;
+    }
+}
+
+@media (max-width:940px) {
+    .registerdiv8 {
+        position: relative;
+        left: -450px;
+    }
+}
+
+@media (max-width:880px) {
+    .registerdiv8 {
+        position: relative;
+        left: -410px;
+    }
+}
+
+@media (max-width:740px) {
+    .registerdiv8 {
+        position: relative;
+        left: -360px;
+    }
+}
+
+@media (max-width:600px) {
+    .registerdiv8 {
+        position: relative;
+        left: -320px;
+    }
+}
+
+@media (max-width:576px) {
+    .registerdiv8 {
+        position: relative;
+        left: -150px;
+        top: 0px;
+    }
+
+    .lastpara {
+        font-size: 12px;
+    }
+}

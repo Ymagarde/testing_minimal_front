@@ -1,0 +1,106 @@
+.myprofilepicdiv
+{
+    height: 188px;
+    width: 188px;
+    position: relative;
+    left: 380px;
+    top: 10px;
+    border-radius: 100px;
+    background-color: #c0c0c0;
+}
+#myprofilepic {
+    width: 130px;
+    height: 130px;
+    position: relative;
+    top: 28px;
+    left: 29px;
+    z-index: 1;
+    border-radius: 100px;
+}
+.filelabel {
+
+    background-color: #f45ca5;
+    font-size: 13px;
+    color: white;
+    position: relative;
+    left: 399px;
+    top: 20px;
+    height: 35px;
+    border: none;
+}
+.backgroundimage {
+    height: 300px;
+    position: relative;
+    top: 30px;
+    left: 65px;
+    border-radius: 20px;
+    background-color: #c0c0c0;
+}
+
+.profileimage {
+    height: 160px;
+    width: 160px;
+    position: relative;
+    top: 195px;
+    left: 290px;
+    border-radius: 85px;
+}
+
+#file {
+    display: none;
+}
+
+
+.filelabel:hover
+{
+    background-color: #c37098;
+}
+
+
+
+
+#files {
+    display: none;
+}
+
+.fileslabel {
+    background-color: #f45ca5;
+    font-size: 13px;
+    position: relative;
+    left: 380px;
+    bottom: -40px;
+    height: 34px;
+    border: none;
+    color: white;
+}
+.fileslabel:hover
+{
+    background-color: #c37098;
+}
+
+#mybgpic {
+    width: 102%;
+    max-height: 299px;
+    height: auto;
+    position: relative;
+    top: 1px;
+    left: -8px;
+    border-radius: 20px;
+    object-fit: fill;
+
+}
+
+.profilesubmit {
+    position: relative;
+    left: 170px;
+    background-color: #f45ca5;
+    border: none;
+    height: 40px;
+    width: 250px;
+    border-radius: 10px;
+    top: 90px;
+}
+.profilesubmit:hover
+{
+    background-color: #c37098;
+}

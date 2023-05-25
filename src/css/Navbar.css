@@ -1,0 +1,31 @@
+.navsearch {
+    position: relative;
+    color: black;
+    top: 20px;
+    opacity: 0.7;
+}
+
+.navflag {
+    height: 18px;
+    width: 30px;
+    float: right;
+    position: relative;
+    right: 50px;
+}
+
+.navgroup {
+    float: right;
+    position: relative;
+    right: 35px;
+    bottom: 3px;
+}
+
+.navprofile {
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    float: right;
+    position: relative;
+    right: 20px;
+    bottom: 10px;
+}
